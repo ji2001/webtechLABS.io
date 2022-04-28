@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>What's The Song?</title>
+    <link rel="stylesheet" href="quiz3.css">
+</head>
+<body>
+    <div class="Header">
+        <div class="LogoText">
+            <a href="../home/home.html"><h1>Jungle Quiz</h1></a>
+        </div>
+
+        <a href="../home/scores.html">Scores</a>   
+    </div>
+            <div id="TopFlex">
+                <div class="TopFlexItem">
+                    <p id="ProgressText">
+                        Question
+                    </p>
+                    <div id="ProgressBar">
+                        <div id="ProgressBarFull"></div>
+                    </div>
+                </div>
+                <div class="TopFlexItem">
+                    <h1>Score:</h1>
+                    <h1 id="Score">
+                        0
+                    </h1>
+                </div>
+            </div>
+            <center>
+            <h1 id="Question">Question Placeholder</h1>
+            <audio id="QuestionMedia" controls>
+                <source src="media/question1.mp3">
+              </audio> 
+            <div class="ChoiceContainer">
+                <p class="ChoiceText" data-number="1">Answer 1</p>
+            </div>
+            <div class="ChoiceContainer">
+                <p class="ChoiceText" data-number="2">answer 2</p>
+            </div>
+            <div class="ChoiceContainer">
+                <p class="ChoiceText" data-number="3">answer 3</p>
+            </div>
+            <div class="ChoiceContainer">
+                <p class="ChoiceText" data-number="4">Answer 4</p>
+            </div>
+            </center>
+    <script src="quiz3.js"></script>
+</body>
+</html>

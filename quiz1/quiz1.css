@@ -1,0 +1,85 @@
+@font-face {
+	font-family: logo-font;
+	src: url(/media/logo-font.ttf);
+}
+
+body
+{
+	background-color: #000033;
+	color: white;
+}
+
+.LogoText * {
+    font-family: logo-font;
+    text-decoration: none;
+}
+
+a {
+    color: white;
+    font-size: 3rem;
+}
+
+.QuestionImage {
+    height: 300px;
+}
+
+.Header {
+	display: flex;
+	justify-content:space-around;
+	align-items: center;
+	color: white;
+	font-size: 2rem;
+}
+
+#ProgressText {
+    font-size: 3rem;
+}
+
+.ChoiceContainer {
+    display: flex;
+    margin-bottom: 0.2rem;
+    width: 40%;
+    border-radius: 4px;
+    background: white;
+    font-size: 2rem;
+    color: black;
+    
+}
+
+.ChoiceContainer:hover {
+    cursor:pointer;
+    outline: auto;
+    outline-width: 5px;
+    outline-color: red;
+    text-decoration: underline;
+}
+
+
+.ChoiceText {
+    width: 100%;
+}
+
+.correct {
+    background: green;
+}
+
+.incorrect {
+    background: red;
+}
+
+#TopFlex {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+#ProgressBar {
+    width: 27rem;
+    height: 1rem;
+    border: 0.2rem solid green;
+}
+
+#ProgressBarFull {
+    height: 100%;
+    background: lawngreen;
+}
