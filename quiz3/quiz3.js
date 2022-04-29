@@ -19,7 +19,7 @@ let Questions = [
         Choice3: 'Coffee',
         Choice4: 'Limb By Limb',
         answer: 1,
-        media: 'Question1.mp3',
+        media: 'media/question1.mp3',
     },
     {
         Question: "What's this song?",
@@ -28,7 +28,7 @@ let Questions = [
         Choice3: "Dark Angel",
         Choice4: "Lord of The Null Lines",
         answer: 2,
-        media: 'Question2.mp3',
+        media: 'media/question2.mp3',
     },
     {
         Question: "What's this song?",
@@ -37,7 +37,7 @@ let Questions = [
         Choice3: "Chopper",
         Choice4: "Dark Soldier",
         answer: 4,
-        media: 'Question3.mp3',
+        media: 'media/question3.mp3',
     },
     {
         Question: "What's this song?",
@@ -46,7 +46,7 @@ let Questions = [
         Choice3: "Junglist",
         Choice4: "The Return",
         answer: 1,
-        media: 'Question4.mp3',
+        media: 'media/question4.mp3',
     },
     {
         Question: "What's this song?",
@@ -55,7 +55,7 @@ let Questions = [
         Choice3: "Atlantis",
         Choice4: "Black",
         answer: 3,
-        media: 'Question5.mp3',
+        media: 'media/question5.mp3',
     }
 
 ]

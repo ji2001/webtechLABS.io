@@ -19,7 +19,7 @@ let Questions = [
         Choice3: 'Austin',
         Choice4: 'Metalheads',
         answer: 3,
-        media: 'Question1.jpg',
+        media: 'media/question1.jpg',
     },
     {
         Question: "DJ SS started which record label?",
@@ -28,7 +28,7 @@ let Questions = [
         Choice3: "Deep Jungle",
         Choice4: "Suburban Base",
         answer: 1,
-        media: 'Question2.jpg',
+        media: 'media/question2.jpg',
     },
     {
         Question: "Who was the first to use the term Jungle to describe the genre of music?",
@@ -37,7 +37,7 @@ let Questions = [
         Choice3: "Goldie",
         Choice4: "A Guy Called Gerald",
         answer: 2,
-        media: 'Question3.jpg',
+        media: 'media/question3.jpg',
     },
     {
         Question: "Who produced under the alias Fire Fox?",
@@ -46,7 +46,7 @@ let Questions = [
         Choice3: "M-Beat",
         Choice4: "Roni Size",
         answer: 4,
-        media: 'Question4.jpg',
+        media: 'media/question4.jpg',
     },
     {
         Question: "What are the real first names of the duo 'Krome & Time'?",
@@ -55,7 +55,7 @@ let Questions = [
         Choice3: "Ronnie and Steven",
         Choice4: "Clifford and Rob",
         answer: 1,
-        media: 'Question5.jpg',
+        media: 'media/question5.jpg',
     },
     {
         Question: "Which rapper is sampled in the alphabet sample in Super Sharp Shooter?",
@@ -64,7 +64,7 @@ let Questions = [
         Choice3: "LL Cool J",
         Choice4: "Eazy E",
         answer: 3,
-        media: 'Question6.jpg',
+        media: 'media/question6.jpg',
     }
 
 ]

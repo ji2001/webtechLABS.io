@@ -19,7 +19,7 @@ let Questions = [
         Choice3: 'Louise',
         Choice4: 'Grace',
         answer: 2,
-        media: 'Question1.mp4',
+        media: 'media/question1.mp4',
     },
     {
         Question: "Who produced the song in this video?",
@@ -28,7 +28,7 @@ let Questions = [
         Choice3: "Roni Size",
         Choice4: "Aphrodite",
         answer: 4,
-        media: 'Question2.mp4',
+        media: 'media/question2.mp4',
     },
     {
         Question: "What is this song called?",
@@ -37,7 +37,7 @@ let Questions = [
         Choice3: "Out Of Space",
         Choice4: "Lighter",
         answer: 1,
-        media: 'Question3.mp4',
+        media: 'media/question3.mp4',
     },
     {
         Question: "Who is talking first in this clip?",
@@ -46,7 +46,7 @@ let Questions = [
         Choice3: "Grooverider",
         Choice4: "DJ SS",
         answer: 2,
-        media: 'Question4.mp4',
+        media: 'media/question4.mp4',
     }
 
 ]
