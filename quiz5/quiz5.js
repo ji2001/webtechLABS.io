@@ -19,7 +19,7 @@ let Questions = [
         Choice3: 'Think',
         Choice4: 'Apache',
         answer: 1,
-        media: 'media/Question1.mp3',
+        media: 'Question1.mp3',
     },
     {
         Question: "What is this break called?",
@@ -28,7 +28,7 @@ let Questions = [
         Choice3: "Amen",
         Choice4: "Apache",
         answer: 2,
-        media: 'media/Question2.mp3',
+        media: 'Question2.mp3',
     },
     {
         Question: "What is this break called?",
@@ -37,7 +37,7 @@ let Questions = [
         Choice3: "Fools Gold",
         Choice4: "Prodigy",
         answer: 3,
-        media: 'media/Question3.mp3',
+        media: 'Question3.mp3',
     },
     {
         Question: "What is this break called?",
@@ -46,7 +46,7 @@ let Questions = [
         Choice3: "Think",
         Choice4: "Amen",
         answer: 3,
-        media: 'media/Question4.mp3',
+        media: 'Question4.mp3',
     }
 
 ]

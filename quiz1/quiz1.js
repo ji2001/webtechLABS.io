@@ -19,7 +19,7 @@ let Questions = [
         Choice3: 'Doc Scott',
         Choice4: 'David Guetta',
         answer: 1,
-        media: 'media/Question1.jpg',
+        media: 'Question1.jpg',
     },
     {
         Question: "Which band recorded the original Amen Break sample?",
@@ -28,7 +28,7 @@ let Questions = [
         Choice3: "The Windows",
         Choice4: "The Winstons",
         answer: 4,
-        media: 'media/Question2.jpg',
+        media: 'Question2.jpg',
     },
     {
         Question: "Which record label was founded by Goldie, Kemistry and Storm?",
@@ -37,7 +37,7 @@ let Questions = [
         Choice3: "V Recordings",
         Choice4: "XL Recordings",
         answer: 2,
-        media: 'media/Question3.jpg',
+        media: 'Question3.jpg',
     },
     {
         Question: "Who produced General Levy's hit song 'Incredible'?",
@@ -46,7 +46,7 @@ let Questions = [
         Choice3: "M-Beat",
         Choice4: "DJ Trace",
         answer: 3,
-        media: 'media/Question4.jpg',
+        media: 'Question4.jpg',
     },
     {
         Question: "Who was the MC who featured on Shy FX - Original Nuttah?",
@@ -55,7 +55,7 @@ let Questions = [
         Choice3: "Rebel MC",
         Choice4: "UK Apache",
         answer: 4,
-        media: 'media/Question5.jpg',
+        media: 'Question5.jpg',
     }
 
 ]
